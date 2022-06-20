@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.heading{
+    font-family: 'Pacifico', cursive;
+    font-size: 7rem;
+    padding: 3% 3%;
+}
+.dice-section{
+    padding: 0% 5%;
+}
+.footer{
+    padding-top: 5%;
+}
